@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# About
 
 **Hi!**
 
-
 I am an economics PhD Student at LMU Munich with a research interest in spatial & urban economics and trade.
 
-You can find my [CV here](https://jonascasper.github.io/files/CV_JC.pdf)
+You can find my CV [here](https://jonascasper.github.io/files/CV_JC.pdf).
 
 # Research
 ## Working Papers
