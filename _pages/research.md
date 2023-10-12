@@ -4,13 +4,18 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Work in Progress
+**"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) [(PDF)](https://jonascasper.github.io/files/Casper_Li_2310_SpatialDivergence.pdf)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+*Abstract*
+How does export liberalization affect firm location choice and the spatial concentration of eco-
+nomic activity? We address these questions using the geo-coordinates of Chinese manufacturing
+firms and find that export widens inter-city and intra-city spatial disparities by reinforcing ini-
+tially large industry centers. We first show that there has been an increased spatial concentration
+across cities in response to improved foreign market access. Only industry city pairs that were
+large initially increase their employment density following trade liberalization. Second, there
+has also been an increased spatial concentration within cities. For a given industry, districts
+closer to city centers are getting denser, mainly driven by the extensive margin. Third, the
+above effects are not exclusive to industries directly exposed to export shocks but also spill over
+positively to upstream and downstream industries and negatively to industries competing for
+the same workers locally.
