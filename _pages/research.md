@@ -21,4 +21,4 @@ above effects are not exclusive to industries directly exposed to export shocks 
 positively to upstream and downstream industries and negatively to industries competing for
 the same workers locally.
 
-![./images/rings_time_2613101.gif]
+![gif](./images/rings_time_2613101.gif)
