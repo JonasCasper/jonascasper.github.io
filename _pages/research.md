@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Work in Progress
+## Working Papers
 **"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) [(PDF)](https://jonascasper.github.io/files/Casper_Li_2310_SpatialDivergence.pdf)
 
 *Abstract*
