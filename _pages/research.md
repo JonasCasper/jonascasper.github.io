@@ -20,3 +20,5 @@ closer to city centers are getting denser, mainly driven by the extensive margin
 above effects are not exclusive to industries directly exposed to export shocks but also spill over
 positively to upstream and downstream industries and negatively to industries competing for
 the same workers locally.
+
+![./images/rings_time_2613101.gif]
