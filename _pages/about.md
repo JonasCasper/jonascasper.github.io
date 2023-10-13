@@ -17,7 +17,7 @@ You can find my CV [here](https://jonascasper.github.io/files/CV_JC.pdf).
 
 # Research
 ## Working Papers
-**"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) [(PDF)](https://jonascasper.github.io/files/Casper_Li_2310_SpatialDivergence.pdf)
+**"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) and [Jinfeng Luo](https://sites.google.com/view/jinfengluo/home) [(PDF)](https://jonascasper.github.io/files/EISD_202310.pdf)
 
 *Abstract*
 
