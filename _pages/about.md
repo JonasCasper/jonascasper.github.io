@@ -11,12 +11,21 @@ redirect_from:
 
 **Hi!**
 
-I am an Economics PhD Student at [LMU Munich](https://www.econ.lmu.de/en/) with a research interest in spatial & urban economics and trade.
+I am an Economics PhD Student at [LMU Munich](https://www.econ.lmu.de/en/) with a research interest in trade, spatial, & urban economics. I will be on the upcoming academic job market.
 
 You can find my CV [here](https://jonascasper.github.io/files/CV_JC.pdf).
 
 # Research
 ## Working Papers
+**"Unproductive Exporters"** 
+
+Job Market Paper, draft available soon
+
+*Abstract*
+
+This paper examines "only-exporters," firms that sell almost exclusively abroad while forgoing their domestic market. About 19\% of exporters across countries are only-exporters, a pattern particularly prevalent in developing economies. These only-exporters are typically among the least productive firms and are most common in large, low-income countries with high trade integration. A model with non-homothetic preferences rationalizes these facts, showing that only-exporters emerge when low domestic income or intense domestic competition pushes them to serve richer, smaller, and less integrated foreign markets. Analyzing China’s WTO accession reveals that trade liberalization increases the share of these firms, reallocating market share toward the least productive firms. Consequently, aggregate productivity gains from trade disappear and, in some industries, can even become negative.
+
+
 **"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) and [Jinfeng Luo](https://sites.google.com/view/jinfengluo/home) [(PDF)](https://jonascasper.github.io/files/EISD_202310.pdf)
 
 *Abstract*
@@ -34,3 +43,6 @@ positively to upstream and downstream industries and negatively to industries co
 the same workers locally.
 
 ![]({{ site.url }}/images/rings_time_2613101.gif)
+
+## Work in Progress
+**"Connect and Compete: Transport Infrastructure and Spatial Divergence"**
