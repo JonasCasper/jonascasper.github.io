@@ -19,14 +19,14 @@ You can find my CV [here](https://jonascasper.github.io/files/CV_JC.pdf).
 ## Working Papers
 **"Unproductive Exporters"** 
 
-Job Market Paper, draft available soon
+Job Market Paper, *draft available soon*
 
 *Abstract*
 
 Canonical trade models predict that only the most productive firms export, yet in developing economies a significant share of exporters are among the least productive. This paper shows these firms often sell almost exclusively abroad ("only-exporters"), a phenomenon that can mute or reverse expected productivity gains from trade. I establish three stylized facts using cross-country and Chinese firm-level data: (i) only-exporters comprise roughly one-fifth of all exporters; (ii) they emerge from large, low-income countries with intense domestic competition and serve smaller, richer, less competitive foreign markets; and (iii) they are among the least productive firms. A trade model with non-homothetic preferences rationalizes this with an "exporting to escape" mechanism: intense domestic competition or low local income pushes the least productive firms to serve more favorable foreign markets. Using China's WTO accession as a quasi-natural experiment, I show liberalization increased the prevalence and market share of these low-productivity firms. This reallocation toward the economy's least productive segment muted, and in some industries reversed, expected aggregate productivity gains. The findings show that trade integration's effects are conditional on country characteristics and can cause aggregate productivity and welfare to decouple.
 
 
-**"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) and [Jinfeng Luo](https://sites.google.com/view/jinfengluo/home) [(PDF)](https://jonascasper.github.io/files/EISD_202310.pdf) *New version available soon*
+**"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) and [Jinfeng Luo](https://sites.google.com/view/jinfengluo/home) [(PDF)](https://jonascasper.github.io/files/EISD_202310.pdf), *new version available soon*
 
 *Abstract*
 
@@ -35,7 +35,6 @@ How does export liberalization affect firm location choice and the spatial conce
 ![]({{ site.url }}/images/rings_time_2613101.gif)
 
 ## Work in Progress
-**"From Access to Exit: Roads, Rural De-Industrialization, and Divergence"**
-*Draft available soon*
+**"From Access to Exit: Roads, Rural De-Industrialization, and Divergence"**, *draft available soon*
 
 **"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) and [Jinfeng Luo](https://sites.google.com/view/jinfengluo/home)
