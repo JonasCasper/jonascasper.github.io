@@ -37,4 +37,4 @@ How does export liberalization affect firm location choice and the spatial conce
 ## Work in Progress
 **"From Access to Exit: Roads, Rural De-Industrialization, and Divergence"**, *draft available soon*
 
-**"Export Induced Spatial Divergence"** joint with [Lei Li](https://lei-li-economics.weebly.com/) and [Jinfeng Luo](https://sites.google.com/view/jinfengluo/home)
+
