@@ -81,17 +81,25 @@
   }
 
   img {
-    /* make the avatar larger and force a square crop */
-    width: 220px;        /* desired size - adjust (e.g. 180px, 250px) */
-    height: 220px;       /* same as width to force square */
-    object-fit: cover;   /* crop/center the image to fill the square */
+    /* Responsive square avatar:
+       - keeps image square via aspect-ratio
+       - fills the square using object-fit (cropping if needed)
+       - removes border/padding/frame */
+    width: 100%;
+    max-width: 220px;     /* adjust the max size you want */
+    aspect-ratio: 1 / 1;  /* enforces square */
+    object-fit: cover;    /* crop/center to fill the square */
     display: block;
-    border-radius: 0;    /* 0 for square corners; use 4px for slight rounding */
+    border-radius: 0;     /* 0 = sharp square corners; change to e.g. 4px for rounding */
     padding: 0;
+    border: none;
+    box-shadow: none;
 
+    /* ensure no frame at large breakpoints either */
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: none;
+      box-shadow: none;
     }
   }
 }
