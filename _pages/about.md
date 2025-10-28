@@ -17,9 +17,9 @@ You can find my CV [here](https://jonascasper.github.io/files/CV_JC.pdf).
 
 # Research
 ## Working Papers
-**"Unproductive Exporters"** 
+**"Unproductive Exporters"** [(PDF)](https://jonascasper.github.io/files/JMP_Casper.pdf)
 
-Job Market Paper, *draft available soon*
+Job Market Paper
 
 *Abstract*
 
