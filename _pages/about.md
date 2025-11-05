@@ -39,4 +39,4 @@ How does export liberalization affect firm location choice and the spatial conce
 
 **"Scale, Efficiency, Location: The Pollution Exposure Effect of Trade"** joint with [Lei Li](https://lei-li-economics.weebly.com/) and [Jinfeng Luo](https://sites.google.com/view/jinfengluo/home) 
 
-**Unlocking Green Density: The Carbon Footprint of "Not in My Backyard"**
+**"Unlocking Green Density: The Carbon Footprint of Not in My Backyard"**
