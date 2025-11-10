@@ -10,7 +10,7 @@ redirect_from:
 
 **Hi!**
 
-I am an Economics PhD Student at [LMU Munich](https://www.econ.lmu.de/en/) with a research interest in trade, spatial, and environmental economics. **I am be on the 2025/26 academic job market.**
+I am an Economics PhD Student at [LMU Munich](https://www.econ.lmu.de/en/) with a research interest in trade, spatial, and environmental economics. **I am on the 2025/26 academic job market.**
 
 You can find my CV [here](https://jonascasper.github.io/files/CV_JC.pdf).
 
