@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Working Papers
-**"Unproductive Exporters"** [(PDF)](https://jonascasper.github.io/files/JMP_Casper.pdf)
+**"Unproductive Exporters"** [(PDF)](https://jonascasper.github.io/files/JMP_Casper.pdf) [(Non-Technical Summary)](https://theeconomicmisfit.com/2026/01/29/unproductive-exporters-when-trade-liberalization-benefits-the-least-efficient-firms-by-jonas-casper/)
 
 Job Market Paper
 
